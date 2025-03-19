@@ -35,7 +35,7 @@ section {
 
 .inicio-fundo {
   
-    background-image: url('img/4965007.jpg');
+    background-image: url("img/4965007.jpg");
    
     background-size: cover;
     background-position: right;
